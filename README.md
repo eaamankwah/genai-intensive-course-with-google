@@ -1,0 +1,1 @@
+# genai-intensive-course-with-google
